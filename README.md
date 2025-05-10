@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 ! My Name is Arya snd I'm an AI/ML Dev , Learning about Web Dev and I have a keen intrest on Software Development 
 
 <!--
 **codebyArya-bit/codebyArya-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
